@@ -1,7 +1,9 @@
 header.header {
-    background-color: #FFF;
+    background-color: #BDA79E;
+    border-radius: 10px;
     overflow: hidden;
     padding: 0px 15px;
+    margin: 20px;
     white-space: nowrap;
 }
 
