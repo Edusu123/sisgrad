@@ -11,7 +11,11 @@ aside.logo img {
 }
 
 @media (max-width: 576px) {
+    aside.logo {
+        justify-content: start;
+    }
+
     aside.logo img {
-        width: 350px;
+        width: 200px;
     }
 }

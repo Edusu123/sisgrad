@@ -7,8 +7,8 @@ export default _ =>
       <a href="/">
         <i className="fa fa-home"></i> Início
       </a>
-      <a href="/users">
-        <i className="fa fa-users"></i> Usuários
+      <a href="/disciplinas">
+        <i className="fa fa-graduation-cap"></i> Disciplinas
       </a>
     </nav>
   </aside>
