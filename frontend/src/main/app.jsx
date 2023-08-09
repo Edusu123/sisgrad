@@ -5,6 +5,7 @@ import React from 'react'
 import { BrowserRouter } from 'react-router-dom'
 import Logo from '../components/template/logo'
 import Nav from '../components/template/nav'
+import Routes from './routes'
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <div className='app'>
         <Logo></Logo>
         <Nav></Nav>
+        <Routes></Routes>
       </div>
     </BrowserRouter>
   );
